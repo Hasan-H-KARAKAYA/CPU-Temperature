@@ -21,7 +21,7 @@ Note: Since the application is not refreshed momentarily, it may show incorrectl
 
 ...................................................................................................................................................................................
 
-Saygılarla Bozkurt Games Studios
+Sincerely Bozkurt Games Studios
 
 
 
